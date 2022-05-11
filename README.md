@@ -2,7 +2,7 @@
 
 For the past few years I've been preparing a New Year pet-project. Whereas for 2021 it was an analysis of all the President's New Year's speeches (no politics) to summarise and highlight the main idea, then for 2022 it is a toast generator.
 
-The model used is sberbank-ai/rugpt3medium_based_on_gpt2. Here, the idea is to learn how to generate toast without a manually specified prompt and to end each toast at the end_of_text marker. 
+For this I use sberbank-ai/rugpt3medium_based_on_gpt2. Here, the idea is to learn how to generate toast without a manually specified prompt and to end each toast at the end_of_text marker. 
 
 I based the idea on these two articles:
 1. https://towardsdatascience.com/teaching-gpt-2-a-sense-of-humor-fine-tuning-large-transformer-models-on-a-single-gpu-in-pytorch-59e8cec40912
