@@ -10,7 +10,7 @@ I based the idea on these two articles:
 
 My original dataset is small, only 1073 toasts I copied from various strange sources, if I find where to get more, it will be larger (yours truly, captain obvious).
 
-Here, some examples from January on the same dataset to see how the model works. It’s worth noting here that no end_of_text was added in January, the beginning of the toast was set manually and the toast was copied manually on the end-to-end text. There were no model evaluation, just checking the idea.
+Here, some examples from January on the same dataset to see how the model works. It’s worth noting here that no end_of_text was added in January, the beginning of the toast was set manually and manually copied. There were no model evaluation, just checking the idea.
 
 - Если у вас сломался телевизор, то вы можете поехать на нем посмотреть новогоднюю программу. Но если вы не купите новый телевизор, то вам придется поехать на нем в кинотеатр. Так выпьем за то, чтобы в новом году мы всегда были в центре событий!
 - Муж пришел с работы уставший, но довольный. Жена налила ему рюмку водки. – Выпьем за то, чтобы в новом году нам всегда хватало сил на что-нибудь хорошее!
